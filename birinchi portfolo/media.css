@@ -1,0 +1,219 @@
+
+
+
+
+
+@media (max-width:1500px) {
+    .ul{
+            display: grid;
+            grid-template-columns: auto auto;
+            padding: 20px 0;
+            align-items: center;
+            margin: auto;
+            width: 98%;
+            display: none;
+        }
+        .boshi{ 
+            display: block ;
+        }
+        .content{
+    
+            text-align: center;
+            width: 98%;
+            margin: auto;
+            padding: 60px 0;
+        }
+        .chap{
+            order: 2;
+        }
+        .ong{
+            order: 1;
+        } 
+         .ong img{
+            width: 100%;
+        }
+        .display{
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 30px 0;
+            justify-content: center;
+            display: flex;
+        }
+        .flex2{
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 30px 0;
+            justify-content: center;
+            display: flex;
+        }
+        .category{
+            text-align: center;
+            width: 98%;
+            margin: auto;
+            padding: 60px;
+        }
+        .nimadur{
+            padding: 60px 0;
+            width: 90%;
+            margin: auto;
+        
+        }
+        .heder3{
+            padding: 60px 0;
+            width: 98%;
+            margin: auto;
+        }
+        .row{
+            width: 30%;
+            margin: auto;
+            border-radius: 10px;
+            padding: 15px 10px;
+            text-align: center;
+        }
+        .footr{
+            display: grid;
+            grid-template-columns:  auto auto auto auto auto;
+            padding: 80px 0;
+            width: 98%;
+            margin: auto;
+        }
+        .box{
+            display: grid;
+            width: 98%;
+            margin: auto;
+            padding: 20px 0;
+            grid-template-columns: auto auto;
+        }
+    }
+    
+    
+    
+    
+    
+    
+    @media (max-width:1455px) {
+        .flexnew{
+            flex-wrap: wrap;
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            
+        }
+        .cartnew{
+            width: 40%;
+            margin: 30px 40px;
+            background-color: white;
+            border-radius: 25px 0 0 0 ;
+        }
+    }
+    
+    
+    
+    @media (max-width:983px) {
+        .flexnew{
+            flex-wrap: wrap;
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            
+        }
+    
+    
+    
+    
+    
+        .cartnew{
+            width: 60%;
+            margin: 30px 40px;
+            background-color: white;
+            border-radius: 25px 0 0 0 ;
+        }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @media (max-width:884px) {
+      
+        .heder{
+            width: 98%;
+            margin: auto;
+            padding: 60px 0;
+        }
+        .grid{
+            text-align: center;
+            align-items: center;
+            display: grid;
+            grid-template-columns:  auto;
+        }
+        .category{
+            text-align: center;
+            width: 98%;
+            margin: auto;
+            padding: 60px;
+        }
+        .nimadur{
+            padding: 60px 0;
+            width: 90%;
+            margin: auto;
+        
+        }
+        .heder3{
+            padding: 60px 0;
+            width: 98%;
+            margin: auto;
+        }
+        .heder h1{
+            font-size: 35px;
+        }
+        .ohri{
+            width: 98%;
+            margin: auto;
+            border-radius: 10px;
+            padding: 60px;
+            text-align: center;
+        }
+        .footr{
+            text-align: center;
+            display: grid;
+            grid-template-columns:   auto auto;
+            padding: 80px 0;
+            width: 98%;
+            margin: auto;
+        }
+        .box{
+            display: grid;
+            width: 98%;
+            margin: auto;
+            padding: 20px 0;
+            grid-template-columns:  auto;
+        }
+        .fotrcha{
+            margin-top: 30px;
+        }
+        .footr{
+            text-align: center;
+        }
+        .boshi:focus{
+            display: block;
+        }
+    }
+    @media (max-width:700px) {
+        .ohri{
+            display: none;
+        }
+        .flex222{
+            display: flex;
+            align-items: center;
+            text-align: left;
+            flex-wrap: wrap;
+        }
+    }
+    
